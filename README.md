@@ -21,7 +21,7 @@ const sanixDarker = {
         databases: ["Mongo", "MySql", "Sqlite", "PostgreSql"],
         misc: ["Socket.IO", "selenium", "TensorFlow", "OpenCv"]
     },
-    architecture: ["Serverless Architecture", "distributed applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Distributed applications", "Single page applications"],
     currentProject: "Working on a Telegram Cloud project (OgramCloud)!",
     contact: {
         telegram: "@sanixdarker",
