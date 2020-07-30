@@ -12,21 +12,23 @@ const sanixDarker = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask", "django-REST-framework"],
+            python: ["flask", "django-REST-framework", "Cython"],
             java: ["Spring-boot"],
             ruby: ["RoR: Ruby On Rails"]
         },
         microservices: ["Python", "Go", "C/C++", Java"],
         devOps: ["AWS", "Docker🐳", "Nginx", "pm2"],
-        databases: ["mongo", "MySql", "sqlite", "PostgreSql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
+        databases: ["Mongo", "MySql", "Sqlite", "PostgreSql"],
+        misc: ["Socket.IO", "selenium", "TensorFlow", "OpenCv"]
     },
     architecture: ["Serverless Architecture", "distributed applications", "Single page applications"],
-    currentProject: "Working on a TelegramCloud !"
+    currentProject: "Working on a Telegram Cloud project (OgramCloud)!",
+    contact: {
+        telegram: "@sanixdarker",
+        twitter: this.contact.telegram
+    }
 };
 ```
-
-📫 Telegram (@sanixdarker) or Twitter (@sanixdarker)
 
 ### GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&amp;show_icons=true&theme=dark" alt="GitHub Stats"></p>
