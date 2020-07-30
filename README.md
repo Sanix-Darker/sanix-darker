@@ -16,7 +16,7 @@ const sanixDarker = {
             java: ["Spring-boot"],
             ruby: ["RoR: Ruby On Rails"]
         },
-        microservices: ["Python", "Go", "C/C++", Java"],
+        microservices: ["Python", "Go", "C/C++", "Java"],
         devOps: ["AWS", "Docker🐳", "Nginx", "pm2"],
         databases: ["Mongo", "MySql", "Sqlite", "PostgreSql"],
         misc: ["Socket.IO", "selenium", "TensorFlow", "OpenCv"]
