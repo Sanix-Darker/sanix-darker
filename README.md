@@ -1,11 +1,31 @@
-### Yo 👋
+### About me
+```javascript
+const sanixDarker = {
+    pronouns: "He | Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php", "go", "C/C++"],
+    askMeAbout: ["web dev", "tech", "microservices", "algorithms" "app dev", "backend"],
+    technologies: {
+        mobileApp: ["Android", "Ionic"],
+        frontEnd: {
+            js: ["ReactJs", "Angular"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"],
+            java: ["Spring-boot"],
+            runy: ["RoR: Ruby On Rails"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "PostgreSql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
+    },
+    architecture: ["Serverless Architecture", "distributed applications", "Single page applications"],
+    currentProject: "Working on a TelegramCloud !"
+};
+```
 
-- 🔭 I’m currently working on open-mind projects
-- 🌱 I’m currently learning human interactions
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with sociability
-- 💬 Ask me about anything
-- 📫 How to reach me: Telegram (@sanixdarker) or Twitter (@sanixdarker)
+📫 Telegram (@sanixdarker) or Twitter (@sanixdarker)
 
-<h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&amp;show_icons=true" alt="GitHub Stats"></p>
+### GitHub Stats
+<p><img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&amp;show_icons=true&theme=dark" alt="GitHub Stats"></p>
