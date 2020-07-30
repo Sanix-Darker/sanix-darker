@@ -1,9 +1,9 @@
-### About me
+### About Me
 ```javascript
 const sanixDarker = {
-    pronouns: "He | Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php", "go", "C/C++"],
-    askMeAbout: ["web dev", "tech", "microservices", "algorithms" "app dev", "backend"],
+    pronouns: "He | Him | Panda",
+    code: ["Javascript", "Python", "Java", "php", "go", "C/C++", "ruby"],
+    askMeAbout: ["web dev", "tech", "distributed-systems", "microservices", "algorithms" "app dev", "backend"],
     technologies: {
         mobileApp: ["Android", "Ionic"],
         frontEnd: {
@@ -12,11 +12,12 @@ const sanixDarker = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask"],
+            python: ["flask", "django-REST-framework"],
             java: ["Spring-boot"],
-            runy: ["RoR: Ruby On Rails"]
+            ruby: ["RoR: Ruby On Rails"]
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
+        microservices: ["Python", "Go", "C/C++", Java"],
+        devOps: ["AWS", "Docker🐳", "Nginx", "pm2"],
         databases: ["mongo", "MySql", "sqlite", "PostgreSql"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv"]
     },
