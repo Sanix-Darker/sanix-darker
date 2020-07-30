@@ -1,6 +1,6 @@
 ### About Me
 ```javascript
-const sanixDarker = {
+const Sanix_Darker = {
     pronouns: "He | Him | Panda",
     code: ["Javascript", "Python", "Java", "php", "go", "C/C++", "ruby"],
     askMeAbout: ["web dev", "tech", "distributed-systems", "microservices", "algorithms" "app dev", "backend"],
