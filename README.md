@@ -22,6 +22,7 @@ const Sanix_Darker = {
         misc: ["Socket.IO", "selenium", "TensorFlow", "OpenCv"]
     },
     architecture: ["Serverless Architecture", "Distributed applications", "Single page applications"],
+    topProjects: ["OgramCloud", "Test-A", "Zolo", "alphastack", "zeus", "kripta", "kraken", "eneo-bill", "LINO", "LI"]
     currentProject: "Working on a Telegram Cloud project (OgramCloud)!",
     contact: {
         telegram: "@sanixdarker",
