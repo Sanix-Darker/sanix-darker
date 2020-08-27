@@ -33,5 +33,5 @@ const Sanix_Darker = {
 
 ### GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&amp;show_icons=true&theme=dark" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&show_icons=true&theme=dark" alt="Sanix's GitHub Stats">
 </p>
