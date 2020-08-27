@@ -7,23 +7,23 @@ const Sanix_Darker = {
     technologies: {
         mobileApp: ["Android", "Ionic"],
         frontEnd: {
-            js: ["ReactJs", "Angular"],
+            js: ["ReactJs", "Angular", "AngularJs"],
             css: ["bootstrap"]
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask", "django-REST-framework", "Cython"],
+            python: ["flask", "django-REST-framework"],
             java: ["Spring-boot"],
             ruby: ["RoR: Ruby On Rails"]
         },
-        microservices: ["Python", "Go", "C/C++", "Java"],
+        microservices: ["Python", "Cython", "Go", "C/C++", "Java", "Ts"],
         devOps: ["AWS", "Docker🐳", "Nginx", "pm2"],
         databases: ["Mongo", "MySql", "Sqlite", "PostgreSql"],
         misc: ["Socket.IO", "selenium", "TensorFlow", "OpenCv"]
     },
     architecture: ["Serverless Architecture", "Distributed applications", "Single page applications"],
     topProjects: ["OgramCloud", "Test-A", "Zolo", "alphastack", "zeus", "kripta", "kraken", "eneo-bill", "LINO"],
-    currentProject: "Working on a Telegram Cloud project (OgramCloud)!",
+    currentProject: "Working on a Telegram Cloud project (OgramCloud) and the PC client, OgramSync!",
     contact: {
         telegram: "@sanixdarker",
         twitter: this.contact.telegram
@@ -32,4 +32,6 @@ const Sanix_Darker = {
 ```
 
 ### GitHub Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&amp;show_icons=true&theme=dark" alt="GitHub Stats"></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&amp;show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
