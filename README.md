@@ -23,7 +23,6 @@ const Sanix_Darker = {
     },
     architecture: ["Serverless Architecture", "Distributed applications", "Single page applications"],
     topProjects: ["OgramCloud", "Test-A", "Zolo", "alphastack", "zeus", "kripta", "kraken", "eneo-bill", "LINO"],
-    currentProject: "Working on a Telegram Cloud project (OgramCloud) and the PC client, OgramSync!",
     contact: {
         telegram: "@sanixdarker",
         twitter: this.contact.telegram
@@ -38,5 +37,7 @@ const Sanix_Darker = {
 
 ### WakaTime Stats
 <p>
-<img src="https://github.com/sanix-darker/sanix-darker/blob/master/images/stat.svg" alt="My WakaTime Activity."/>
+    <a href="https://wakatime.com/@sanixdarker">
+        <img src="https://github.com/sanix-darker/sanix-darker/blob/master/images/stat.svg" alt="My WakaTime Activity."/>
+    </a>
 </p>
