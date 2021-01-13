@@ -35,3 +35,8 @@ const Sanix_Darker = {
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sanix-darker&show_icons=true&theme=dark" alt="Sanix's GitHub Stats">
 </p>
+
+### WakaTime Stats
+<p>
+<img src="https://github.com/sanix-darker/sanix-darker/blob/master/images/stat.svg" alt="My WakaTime Activity."/>
+</p>
