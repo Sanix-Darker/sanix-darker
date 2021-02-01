@@ -1,4 +1,4 @@
-### Global Stats
+### Global Stats (public Github activity)
 <p>
     <img width="600"  
          src="https://metrics.lecoq.io/sanix-darker?id=sanix-darker" 
@@ -6,7 +6,7 @@
      />
 </p>
 
-### WakaTime Stats
+### WakaTime Stats (Programming/Coding activity)
 <p>
     <a href="https://wakatime.com/@sanixdarker">
         <img width="600" src="https://github.com/sanix-darker/sanix-darker/blob/master/images/stat.svg"
