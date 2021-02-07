@@ -6,7 +6,7 @@
      />
 </p>
 
-### WakaTime Stats (Programming/Coding activity)
+### WakaTime Stats (Coding activity)
 <p>
     <a href="https://wakatime.com/@sanixdarker">
         <img width="600" src="https://github.com/sanix-darker/sanix-darker/blob/master/images/stat.svg"
