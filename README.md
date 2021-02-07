@@ -1,4 +1,4 @@
-### Global Stats (public Github activity)
+### Global Stats (OpenSource activity)
 <p>
     <img width="600"  
          src="https://metrics.lecoq.io/sanix-darker?id=sanix-darker" 
