@@ -10,7 +10,7 @@
 [![Sanix-darker's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanix-darker&theme=xcode)](https://github.com/sanix-darker)
 
 
-### WakaTime Stats (Coding activity)
+### WakaTime Stats (Coding Activity per language)
 <p>
     <a href="https://wakatime.com/@sanixdarker">
         <img width="600" src="https://github.com/sanix-darker/sanix-darker/blob/master/images/stat.svg"
