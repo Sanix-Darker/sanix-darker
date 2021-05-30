@@ -6,6 +6,10 @@
      />
 </p>
 
+### Graph stats (Activity in time)
+[![Sanix-darker's github activity graph](https://activity-graph.herokuapp.com/graph?username=sanix-darker&theme=xcode)](https://github.com/sanix-darker)
+
+
 ### WakaTime Stats (Coding activity)
 <p>
     <a href="https://wakatime.com/@sanixdarker">
