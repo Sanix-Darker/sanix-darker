@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-08-21T00:55:08.700236</dc:date>
+    <dc:date>2021-08-22T00:55:55.618633</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,7 +30,7 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#p42a8e8af11)" d="M 64.329688 27.358125 
+    <path clip-path="url(#pced37c9867)" d="M 64.329688 27.358125 
 L 595.758259 27.358125 
 L 595.758259 44.158125 
 L 64.329688 44.158125 
@@ -38,15 +38,15 @@ z
 " style="fill:#3572a5;stroke:#3572a5;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#p42a8e8af11)" d="M 64.329688 48.358125 
+    <path clip-path="url(#pced37c9867)" d="M 64.329688 48.358125 
 L 88.244866 48.358125 
 L 88.244866 65.158125 
 L 64.329688 65.158125 
 z
-" style="fill:#bb00f8;stroke:#bb00f8;stroke-linejoin:miter;"/>
+" style="fill:#a7612a;stroke:#a7612a;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#p42a8e8af11)" d="M 64.329688 69.358125 
+    <path clip-path="url(#pced37c9867)" d="M 64.329688 69.358125 
 L 77.834029 69.358125 
 L 77.834029 86.158125 
 L 64.329688 86.158125 
@@ -54,7 +54,7 @@ z
 " style="fill:#89e051;stroke:#89e051;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#p42a8e8af11)" d="M 64.329688 90.358125 
+    <path clip-path="url(#pced37c9867)" d="M 64.329688 90.358125 
 L 73.729185 90.358125 
 L 73.729185 107.158125 
 L 64.329688 107.158125 
@@ -62,7 +62,7 @@ z
 " style="fill:#555555;stroke:#555555;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#p42a8e8af11)" d="M 64.329688 111.358125 
+    <path clip-path="url(#pced37c9867)" d="M 64.329688 111.358125 
 L 69.50536 111.358125 
 L 69.50536 128.158125 
 L 64.329688 128.158125 
@@ -76,10 +76,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m31665d6e04" style="stroke:#000000;stroke-width:0.8;"/>
+" id="mc02791bb80" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#m31665d6e04" y="35.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#mc02791bb80" y="35.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -217,7 +217,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#m31665d6e04" y="56.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#mc02791bb80" y="56.758125"/>
       </g>
      </g>
      <g id="text_2">
@@ -292,7 +292,7 @@ z
     <g id="ytick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#m31665d6e04" y="77.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#mc02791bb80" y="77.758125"/>
       </g>
      </g>
      <g id="text_3">
@@ -406,7 +406,7 @@ z
     <g id="ytick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#m31665d6e04" y="98.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#mc02791bb80" y="98.758125"/>
       </g>
      </g>
      <g id="text_4">
@@ -442,7 +442,7 @@ z
     <g id="ytick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#m31665d6e04" y="119.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="64.329688" xlink:href="#mc02791bb80" y="119.758125"/>
       </g>
      </g>
      <g id="text_5">
@@ -1114,7 +1114,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p42a8e8af11">
+  <clipPath id="pced37c9867">
    <rect height="110.88" width="558" x="64.329688" y="22.318125"/>
   </clipPath>
  </defs>
