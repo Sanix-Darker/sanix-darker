@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2022-01-24T14:52:06.098667</dc:date>
+    <dc:date>2022-01-25T01:08:30.360257</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,7 +30,7 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path clip-path="url(#pcfbd09f13b)" d="M 65.840625 27.358125 
+    <path clip-path="url(#p4d2391ac87)" d="M 65.840625 27.358125 
 L 597.269196 27.358125 
 L 597.269196 44.158125 
 L 65.840625 44.158125 
@@ -38,15 +38,15 @@ z
 " style="fill:#3572a5;stroke:#3572a5;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_3">
-    <path clip-path="url(#pcfbd09f13b)" d="M 65.840625 48.358125 
+    <path clip-path="url(#p4d2391ac87)" d="M 65.840625 48.358125 
 L 170.392526 48.358125 
 L 170.392526 65.158125 
 L 65.840625 65.158125 
 z
-" style="fill:#70b2bf;stroke:#70b2bf;stroke-linejoin:miter;"/>
+" style="fill:#a15e67;stroke:#a15e67;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_4">
-    <path clip-path="url(#pcfbd09f13b)" d="M 65.840625 69.358125 
+    <path clip-path="url(#p4d2391ac87)" d="M 65.840625 69.358125 
 L 95.136083 69.358125 
 L 95.136083 86.158125 
 L 65.840625 86.158125 
@@ -54,7 +54,7 @@ z
 " style="fill:#89e051;stroke:#89e051;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_5">
-    <path clip-path="url(#pcfbd09f13b)" d="M 65.840625 90.358125 
+    <path clip-path="url(#p4d2391ac87)" d="M 65.840625 90.358125 
 L 93.26775 90.358125 
 L 93.26775 107.158125 
 L 65.840625 107.158125 
@@ -62,7 +62,7 @@ z
 " style="fill:#00add8;stroke:#00add8;stroke-linejoin:miter;"/>
    </g>
    <g id="patch_6">
-    <path clip-path="url(#pcfbd09f13b)" d="M 65.840625 111.358125 
+    <path clip-path="url(#p4d2391ac87)" d="M 65.840625 111.358125 
 L 88.858485 111.358125 
 L 88.858485 128.158125 
 L 65.840625 128.158125 
@@ -76,10 +76,10 @@ z
       <defs>
        <path d="M 0 0 
 L -3.5 0 
-" id="m999a72e784" style="stroke:#000000;stroke-width:0.8;"/>
+" id="m350960a3ae" style="stroke:#000000;stroke-width:0.8;"/>
       </defs>
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m999a72e784" y="35.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m350960a3ae" y="35.758125"/>
       </g>
      </g>
      <g id="text_1">
@@ -217,7 +217,7 @@ z
     <g id="ytick_2">
      <g id="line2d_2">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m999a72e784" y="56.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m350960a3ae" y="56.758125"/>
       </g>
      </g>
      <g id="text_2">
@@ -361,7 +361,7 @@ z
     <g id="ytick_3">
      <g id="line2d_3">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m999a72e784" y="77.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m350960a3ae" y="77.758125"/>
       </g>
      </g>
      <g id="text_3">
@@ -442,7 +442,7 @@ z
     <g id="ytick_4">
      <g id="line2d_4">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m999a72e784" y="98.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m350960a3ae" y="98.758125"/>
       </g>
      </g>
      <g id="text_4">
@@ -483,7 +483,7 @@ z
     <g id="ytick_5">
      <g id="line2d_5">
       <g>
-       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m999a72e784" y="119.758125"/>
+       <use style="stroke:#000000;stroke-width:0.8;" x="65.840625" xlink:href="#m350960a3ae" y="119.758125"/>
       </g>
      </g>
      <g id="text_5">
@@ -1002,7 +1002,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pcfbd09f13b">
+  <clipPath id="p4d2391ac87">
    <rect height="110.88" width="558" x="65.840625" y="22.318125"/>
   </clipPath>
  </defs>
