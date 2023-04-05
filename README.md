@@ -5,18 +5,18 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 28 March 2023 - To: 04 April 2023
 
-Total Time: 46 hrs 31 mins
+Total Time: 55 hrs 14 mins
 
-Python       33 hrs 19 mins  ██████████████████░░░░░░░   71.62 %
-Lua          1 hr 57 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Bash         1 hr 51 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-TOML         1 hr 25 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-YAML         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-Markdown     1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Vim Script   59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Go           53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Python       23 hrs 23 mins  ██████████▓░░░░░░░░░░░░░░   42.33 %
+Go           5 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+Bash         4 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Markdown     2 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Makefile     2 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+JavaScript   2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Lua          2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+YAML         1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
