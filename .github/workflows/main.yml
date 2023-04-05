@@ -1,12 +1,13 @@
 name: WakaTime status update
 
 on:
-  push:
-    branches: [ master ]
   workflow_dispatch:
     schedule:
-      # Runs at 12am UTC
       - cron: "0 0 * * *"
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [ master ]
 
 jobs:
   update-readme:
