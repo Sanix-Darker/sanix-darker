@@ -5,15 +5,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2023 - To: 28 April 2023
+From: 22 April 2023 - To: 29 April 2023
 
-Total Time: 25 hrs 37 mins
+Total Time: 25 hrs 19 mins
 
-Python       20 hrs 24 mins  ████████████████████░░░░░   79.65 %
-C            2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-GraphQL      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Makefile     28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Python       20 hrs 37 mins  ████████████████████▒░░░░   81.45 %
+Makefile     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Bash         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+C            32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+GraphQL      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
