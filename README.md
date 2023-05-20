@@ -5,20 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
-Total Time: 22 hrs 55 mins
+Total Time: 19 hrs 48 mins
 
-Python       9 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   42.64 %
-Vim Script   2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Markdown     2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Bash         1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-TOML         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-Makefile     1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-YAML         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-TypeScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-gitconfig    30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Rust         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python       7 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   36.20 %
+Vim Script   2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+Markdown     2 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Bash         1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+TOML         1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+Makefile     1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+YAML         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+TypeScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+gitconfig    30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Rust         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
