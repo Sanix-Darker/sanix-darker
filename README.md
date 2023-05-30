@@ -5,20 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 May 2023 - To: 27 May 2023
+From: 21 May 2023 - To: 28 May 2023
 
-Total Time: 25 hrs 16 mins
+Total Time: 24 hrs 35 mins
 
-Python             12 hrs 32 mins  ████████████▒░░░░░░░░░░░░   49.64 %
-Bash               3 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Lua                2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-JSON               1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-TOML               52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-gitconfig          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Docker             36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Markdown           36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-reStructuredText   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-TypeScript         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Python             12 hrs 18 mins  ████████████▓░░░░░░░░░░░░   50.09 %
+Bash               3 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Lua                1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+JSON               1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+TOML               52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+gitconfig          48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Docker             36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Markdown           33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+reStructuredText   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+TypeScript         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
