@@ -5,20 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-Total Time: 32 hrs 15 mins
+Total Time: 32 hrs 58 mins
 
-Python       14 hrs 45 mins  ███████████▒░░░░░░░░░░░░░   45.77 %
-Go           3 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-Bash         3 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-JavaScript   2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Markdown     1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-YAML         1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Docker       1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-TOML         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Makefile     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Python             14 hrs 38 mins  ███████████░░░░░░░░░░░░░░   44.40 %
+Go                 3 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+Bash               3 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+JavaScript         2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Markdown           2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+YAML               1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+TOML               1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+reStructuredText   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+JSON               31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Makefile           29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
