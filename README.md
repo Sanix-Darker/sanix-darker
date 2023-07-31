@@ -5,20 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 July 2023 - To: 28 July 2023
+From: 22 July 2023 - To: 29 July 2023
 
-Total Time: 28 hrs 21 mins
+Total Time: 20 hrs 58 mins
 
-Python             15 hrs 54 mins  ██████████████░░░░░░░░░░░   56.11 %
-Go                 3 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-Bash               2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-YAML               1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-reStructuredText   1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-TOML               1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Markdown           1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-gitrebase          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-gitconfig          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-i3config           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python             16 hrs 8 mins   ███████████████████▒░░░░░   76.94 %
+reStructuredText   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+TOML               1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Go                 47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Markdown           47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+gitrebase          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+YAML               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Bash               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+JavaScript         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+E-mail             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
