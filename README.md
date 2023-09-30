@@ -5,20 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Total Time: 56 hrs 30 mins
+Total Time: 53 hrs 46 mins
 
-Python             31 hrs 49 mins  ██████████████░░░░░░░░░░░   56.32 %
-Go                 12 hrs 51 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-Markdown           4 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Makefile           1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-TOML               36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-YAML               33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-ActionScript       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-JSON               28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Lua                27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-TypeScript         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python             32 hrs 12 mins  ███████████████░░░░░░░░░░   59.88 %
+Go                 11 hrs 52 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Markdown           3 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Makefile           1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+YAML               32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Lua                27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TypeScript         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+ActionScript       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+TOML               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JSON               15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
