@@ -5,20 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2023 - To: 21 October 2023
+From: 15 October 2023 - To: 22 October 2023
 
-Total Time: 28 hrs 28 mins
+Total Time: 22 hrs 33 mins
 
-Python           13 hrs 22 mins  ███████████▓░░░░░░░░░░░░░   46.96 %
-Rust             5 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Vue.js           1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-TypeScript       1 hr 29 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Docker           1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Markdown         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JSON             48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-JavaScript       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Makefile         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Text             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python           12 hrs 29 mins  ██████████████░░░░░░░░░░░   55.40 %
+Bash             1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Vue.js           1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+TypeScript       1 hr 29 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Docker           1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+JSON             44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+JavaScript       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Makefile         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Markdown         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Vim Script       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
