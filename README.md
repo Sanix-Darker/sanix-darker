@@ -1,20 +1,22 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2023 - To: 08 December 2023
+Hi, am darker.
 
-Total Time: 40 hrs 58 mins
+From: 02 December 2023 - To: 09 December 2023
 
-Python            30 hrs 58 mins  ███████████████████░░░░░░   75.58 %
-Bash              3 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
-JSON              1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Markdown          1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-YAML              1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-gitrebase         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Lua               14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-TOML              12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Makefile          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-JavaScript        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Total Time: 43 hrs 32 mins
+
+Python            30 hrs 51 mins  █████████████████▓░░░░░░░   70.89 %
+Bash              6 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Markdown          1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+JSON              1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+YAML              1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+gitrebase         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+gitconfig         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Lua               14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Makefile          12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+TOML              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
