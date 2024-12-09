@@ -3,11 +3,12 @@
 ```txt
 Hi, am dk.
 
-From: 29 November 2024 - To: 06 December 2024,
+From: 30 November 2024 - To: 07 December 2024,
 
-Coding time : 0 secs.
+Coding time : 20 mins.
 
-No activity tracked
+Markdown     17 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.43 %
+JavaScript   3 mins          ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.57 %
 ```
 Check [sanixdk.xyz](https://sanixdk.xyz) for more.
 
