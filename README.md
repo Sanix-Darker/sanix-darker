@@ -21,6 +21,3 @@ JSON         5 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 Check [sanixdk.xyz](https://sanixdk.xyz) for more.
 
 <!--END_SECTION:waka-->
-
-<!-- i should probably build this when i will have some time -->
-![visitor](https://profile-counter.glitch.me/sanix-darker/count.svg)
