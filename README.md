@@ -3,7 +3,7 @@
 ```txt
 Hi, am dk.
 
-From: 28 October 2025 - To: 04 November 2025,
+From: 29 October 2025 - To: 05 November 2025,
 
 Coding time : 19 hrs 3 mins.
 
