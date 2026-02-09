@@ -3,11 +3,12 @@
 ```txt
 Hi, am dk.
 
-From: 30 January 2026 - To: 06 February 2026,
+From: 31 January 2026 - To: 07 February 2026,
 
-Coding time : 12 mins.
+Coding time : 1 hr 25 mins.
 
-C++   12 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Markdown   1 hr 12 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.00 %
+C++        12 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.00 %
 ```
 Check [sanixdk.xyz](https://sanixdk.xyz) for more.
 
