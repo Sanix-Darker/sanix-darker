@@ -3,13 +3,11 @@
 ```txt
 Hi, am dk.
 
-From: 03 April 2026 - To: 10 April 2026,
+From: 05 April 2026 - To: 12 April 2026,
 
-Coding time : 1 hr 23 mins.
+Coding time : 0 secs.
 
-Other      1 hr 21 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.43 %
-Go         0 secs          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.08 %
-Markdown   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.48 %
+No activity tracked
 ```
 Check [sanixdk.xyz](https://sanixdk.xyz) for more.
 
