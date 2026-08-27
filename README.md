@@ -3,7 +3,7 @@
 ```txt
 Hi, am dk.
 
-From: 17 August 2026 - To: 24 August 2026,
+From: 18 August 2026 - To: 25 August 2026,
 
 Coding time : 16 hrs 30 mins.
 
